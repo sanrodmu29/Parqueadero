@@ -1,0 +1,9 @@
+1010,LucÃ­a,Mendoza,351-7894562,Lucha@gmail,CalleFlores123,Gerente,02O
+1020,Mateo,RÃ­os,11-6543210,Teo@gmail,AvLibertad456,Supervisor,02O
+1030,Valeria,Soto,261-8529630,Vale@hotmail,SanMartÃ­n789,Operario,01N
+1040,Santiago,Vega,299-7412580,vegano@yahoo,Belgrano101,Lavador,02N
+1050,Camila,Herrera,Carrera20,Kami@gmail,Carrera20,Cajero,03D
+1060,Alejandro,Morales,221-4561237,Alecho@gmail,Calle7-303,Operario,03N
+1070,Isabella,Castro,341-7891235,chavela@yahoo,Pellegrini404,Administrador,03N
+1080,Diego,Navarro,387-6549871,Navarrete@gmail,Alvear505,Operario,01D
+1000,Javier,Rocha,376-4567891,Roca@gmail,Sarmiento707,Cajero,02O

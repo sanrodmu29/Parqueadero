@@ -1,0 +1,9 @@
+01N,Nocturno,21,05
+02N,Nocturno,21,04
+03N,Nocturno,22,06
+01D,Diurno,06,14
+02D,Diurno,06,15
+03D,Diurno,07,14
+01O,Mixto,08,16
+02O,Mixto,08,16
+03O,Mixto,12,20

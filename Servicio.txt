@@ -1,0 +1,9 @@
+S1,Parque_por_horas_o_fracciÃ³n ,4500.0
+S2,Parqueo_por_dias,21000.0
+S3,Mensualidades_residentes,500000.0
+S4,Parqueo_para_motos,3500.0
+S5,Parqueo_bicicletas,2000.0
+S6,Parqueo_Vehiculos,5500.0
+S7,Lavado_de_vehÃ­culos_bÃ¡sico,80000.0
+S8,Lavado_de_vehÃ­culos_completo,140000.0
+S9,Mantenimiento_bÃ¡sico_nivel_aceite_presiÃ³n_llantas,95000.0

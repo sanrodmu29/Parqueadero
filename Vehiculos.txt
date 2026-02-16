@@ -1,0 +1,9 @@
+JYT281,1010,AutomÃ³vil,Volkswagen,Rojo,2025,false
+KBP300,1020,Motocicleta,Bentley,Azul,2010,true
+KBV300,1030,Campero,Skoda,Gris,2010,true
+WYT500,1040,AutomÃ³vil,Audi,Rojo,2019,true
+RZK508,1050,Camioneta,Renault,Rojo,2019,true
+FBS100,1010,AutomÃ³vil,Porsche,Negro,2000,false
+RZX280,1020,Camioneta,Toyota,Blanco,2024,true
+RZE900,1060,Microbus,Chevrolet,Gris,2024,false
+KAK000,1030,AutomÃ³vil,Kia,Negro,2010,true

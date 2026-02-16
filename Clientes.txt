@@ -1,0 +1,6 @@
+1010,Ana,Mendez,3002058971,Ana@gmail.com,calle10
+1020,Pedro,Restrepo,3022058971,Peter@gmail.com,carrera45
+1030,Jimin,Gomez,3042058971,Jim@gmail.com,carrera92B
+1040,Benson,Jaramillo,3062058971,ben@hotmail.com,calle104
+1050,Lina,Giraldo,3082058971,linis@gmail.com,carrera64A
+1060,Fredy,Valencia,3122058971,frecus@gmail.com,circular3A

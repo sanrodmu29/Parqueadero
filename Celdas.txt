@@ -1,0 +1,11 @@
+1,AutomÃ³vil,true
+2,Bus,true
+3,Buseta,true
+4,Camioneta,true
+5,Camioneta,true
+6,Campero,true
+7,Microbus,true
+8,Camioneta,true
+9,Motocicleta,true
+10,Motocicleta,true
+11,AutomÃ³vil,true
